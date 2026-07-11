@@ -3,6 +3,8 @@
 **Purpose:** A beginner-friendly introduction to Apache Airflow, its main concepts, local setup, DAG authoring, testing, and basic good practices.
 
 > **Version note:** The linked tutorial was written for an older Airflow release. This guide preserves its core concepts but modernizes the examples for current Airflow 3.x syntax and architecture.
+>
+> **Diagram note:** This edition uses plain-text diagrams instead of Mermaid so every diagram renders in basic Markdown viewers.
 
 ---
 
@@ -39,12 +41,20 @@ A daily pipeline might:
 4. load it into a database,
 5. and send a completion notification.
 
-```mermaid
-flowchart LR
-    A[Extract API data] --> B[Clean data]
-    B --> C[Validate data]
-    C --> D[Load database]
-    D --> E[Send notification]
+```text
+[Extract API data]
+         |
+         v
+    [Clean data]
+         |
+         v
+   [Validate data]
+         |
+         v
+   [Load database]
+         |
+         v
+[Send notification]
 ```
 
 The arrows describe dependencies. Airflow ensures that downstream tasks wait for the required upstream tasks.
@@ -216,12 +226,17 @@ By default, a task waits until all of its direct upstream tasks succeed.
 
 # 4. A Simple DAG Diagram
 
-```mermaid
-flowchart TD
-    A[extract] --> B[transform]
-    B --> C[validate]
-    C --> D[load]
-    C --> E[report validation failure]
+```text
+[extract]
+    |
+    v
+[transform]
+    |
+    v
+[validate]
+   / \
+  v   v
+[load]  [report validation failure]
 ```
 
 This diagram means:
@@ -236,18 +251,32 @@ This diagram means:
 
 A modern Airflow installation includes several cooperating components.
 
-```mermaid
-flowchart LR
-    U[User / Browser] --> API[API Server and UI]
-    API --> DB[(Metadata Database)]
-
-    DP[DAG Processor] --> DB
-    DAG[DAG Files / DAG Bundle] --> DP
-
-    S[Scheduler] --> DB
-    S --> EX[Executor]
-    EX --> W[Worker or Task Process]
-    W --> DB
+```text
+                       +----------------------+
+                       |    User / Browser    |
+                       +----------+-----------+
+                                  |
+                                  v
+                       +----------------------+
+                       | API Server and UI    |
+                       +----------+-----------+
+                                  |
+                                  v
+                       +----------------------+
+                       | Metadata Database    |
+                       +----------------------+
+                          ^       ^        ^
+                          |       |        |
+              +-----------+       |        +----------------+
+              |                   |                         |
++-------------+---------+  +------+-------+       +---------+----------+
+| DAG Processor         |  | Scheduler    |       | Worker / Task     |
++-------------+---------+  +------+-------+       | Process           |
+              ^                   |               +---------+----------+
+              |                   v                         ^
++-------------+---------+  +--------------+                 |
+| DAG Files / Bundle    |  | Executor     |-----------------+
++-----------------------+  +--------------+
 ```
 
 ## API server and web UI
@@ -654,10 +683,8 @@ TaskFlow automatically uses Airflow’s task-communication mechanism to pass the
 
 The TaskFlow function calls create this dependency structure:
 
-```mermaid
-flowchart LR
-    A[extract] --> B[transform]
-    B --> C[load]
+```text
+[extract] ---> [transform] ---> [load]
 ```
 
 Equivalent explicit dependency notation with operator-based tasks would be:
@@ -759,9 +786,8 @@ Provider imports vary by package and installed version.
 task_a >> task_b >> task_c
 ```
 
-```mermaid
-flowchart LR
-    A[task_a] --> B[task_b] --> C[task_c]
+```text
+[task_a] ---> [task_b] ---> [task_c]
 ```
 
 ## Fan-out
@@ -773,10 +799,10 @@ task_a >> [
 ]
 ```
 
-```mermaid
-flowchart LR
-    A[task_a] --> B[task_b]
-    A --> C[task_c]
+```text
+             +--> [task_b]
+[task_a] ----|
+             +--> [task_c]
 ```
 
 ## Fan-in
@@ -788,10 +814,10 @@ flowchart LR
 ] >> task_c
 ```
 
-```mermaid
-flowchart LR
-    A[task_a] --> C[task_c]
-    B[task_b] --> C
+```text
+[task_a] --+
+           +--> [task_c]
+[task_b] --+
 ```
 
 The `>>` operator means “is upstream of.”
@@ -1068,17 +1094,22 @@ Show scheduling, tags, and recent run information.
 
 # 24. Basic Task-State Flow
 
-```mermaid
-stateDiagram-v2
-    [*] --> scheduled
-    scheduled --> queued
-    queued --> running
-    running --> success
-    running --> failed
-    failed --> up_for_retry
-    up_for_retry --> scheduled
-    failed --> [*]
-    success --> [*]
+```text
+[start]
+   |
+   v
+[scheduled] --> [queued] --> [running]
+                              /      \
+                             v        v
+                        [success]   [failed]
+                            |          |
+                            v          v
+                          [end]   [up_for_retry]
+                                       |
+                                       v
+                                  [scheduled]
+
+A failed task may also stop permanently and move to the end state.
 ```
 
 The exact lifecycle can include additional states, but this is the usual beginner-level flow.
@@ -1288,10 +1319,8 @@ For a new project, evaluate current project activity, team experience, deploymen
 
 Create a three-task daily pipeline:
 
-```mermaid
-flowchart LR
-    A[Read CSV] --> B[Calculate summary]
-    B --> C[Write summary JSON]
+```text
+[Read CSV] ---> [Calculate summary] ---> [Write summary JSON]
 ```
 
 Recommended learning goals:
