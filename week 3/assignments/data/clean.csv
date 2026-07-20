@@ -1,0 +1,1124 @@
+permit_type,permit_subtype,permit_lot_size,submitted_date,issued_date
+Maintenance,Mechanical,1.06,2019-01-01,2019-01-11
+Building,New Construction,0.95,2019-01-01,2019-01-07
+Maintenance,Electrical,1.59,2019-01-02,2019-01-10
+Building,Renovation,1.46,2019-01-02,2019-01-25
+Maintenance,Plumbing,1.05,2019-01-02,2019-01-12
+Building,Renovation,0.91,2019-01-03,2019-01-22
+Maintenance,Electrical,2.3,2019-01-03,2019-01-13
+Maintenance,Plumbing,0.94,2019-01-04,2019-01-15
+Maintenance,Electrical,0.8,2019-01-05,2019-01-11
+Maintenance,Electrical,1.39,2019-01-05,2019-01-14
+Building,New Construction,0.75,2019-01-05,2019-01-10
+Building,Renovation,1.05,2019-01-05,2019-01-31
+Maintenance,Plumbing,1.18,2019-01-06,2019-01-17
+Building,New Construction,1.21,2019-01-06,2019-01-16
+Maintenance,Mechanical,0.54,2019-01-06,2019-01-13
+Building,Renovation,0.51,2019-01-06,2019-01-28
+Maintenance,Electrical,1.83,2019-01-07,2019-01-18
+Maintenance,Mechanical,0.39,2019-01-07,2019-01-14
+Building,Renovation,1.05,2019-01-08,2019-02-03
+Building,Renovation,1.14,2019-01-08,2019-02-01
+Building,New Construction,1.78,2019-01-08,2019-01-19
+Maintenance,Mechanical,0.66,2019-01-09,2019-01-17
+Maintenance,Plumbing,0.55,2019-01-09,2019-01-15
+Building,Renovation,2.22,2019-01-09,2019-02-04
+Building,New Construction,0.69,2019-01-09,2019-01-13
+Maintenance,Plumbing,0.59,2019-01-10,2019-01-18
+Maintenance,Mechanical,0.93,2019-01-10,2019-01-16
+Building,Renovation,0.93,2019-01-11,2019-02-02
+Maintenance,Plumbing,1.3,2019-01-11,2019-01-19
+Building,New Construction,0.83,2019-01-11,2019-01-20
+Maintenance,Plumbing,0.82,2019-01-11,2019-01-16
+Maintenance,Mechanical,1.36,2019-01-11,2019-01-20
+Building,New Construction,0.84,2019-01-11,2019-01-17
+Maintenance,Plumbing,1.96,2019-01-11,2019-01-24
+Maintenance,Electrical,1.12,2019-01-12,2019-01-22
+Building,Renovation,1.17,2019-01-12,2019-02-03
+Building,New Construction,0.91,2019-01-12,2019-01-18
+Building,New Construction,1.0,2019-01-13,2019-01-22
+Maintenance,Mechanical,1.65,2019-01-13,2019-01-21
+Building,New Construction,1.44,2019-01-13,2019-01-21
+Maintenance,Mechanical,1.01,2019-01-13,2019-01-21
+Building,New Construction,1.09,2019-01-13,2019-01-22
+Building,Renovation,1.28,2019-01-13,2019-02-03
+Building,Renovation,0.44,2019-01-14,2019-02-05
+Building,Renovation,1.2,2019-01-15,2019-02-10
+Maintenance,Electrical,0.91,2019-01-16,2019-01-25
+Maintenance,Electrical,0.71,2019-01-16,2019-01-22
+Maintenance,Electrical,1.68,2019-01-17,2019-01-28
+Maintenance,Mechanical,1.19,2019-01-17,2019-01-24
+Building,New Construction,0.81,2019-01-18,2019-01-23
+Maintenance,Mechanical,1.14,2019-01-18,2019-01-25
+Maintenance,Electrical,0.83,2019-01-19,2019-01-25
+Building,New Construction,2.1,2019-01-19,2019-01-30
+Building,Renovation,1.59,2019-01-20,2019-02-13
+Building,Renovation,1.36,2019-01-20,2019-02-11
+Maintenance,Mechanical,1.68,2019-01-20,2019-01-29
+Building,New Construction,2.2,2019-01-20,2019-02-03
+Maintenance,Plumbing,0.6,2019-01-20,2019-01-28
+Maintenance,Electrical,1.21,2019-01-20,2019-01-29
+Maintenance,Electrical,1.48,2019-01-21,2019-01-29
+Maintenance,Mechanical,0.83,2019-01-22,2019-02-01
+Building,Renovation,1.55,2019-01-22,2019-02-15
+Building,New Construction,0.71,2019-01-22,2019-01-29
+Building,Renovation,0.96,2019-01-22,2019-02-10
+Building,Renovation,0.83,2019-01-23,2019-02-14
+Maintenance,Mechanical,0.68,2019-01-23,2019-01-29
+Maintenance,Electrical,0.62,2019-01-24,2019-01-31
+Building,Renovation,0.49,2019-01-26,2019-02-17
+Maintenance,Electrical,1.46,2019-01-26,2019-02-05
+Building,New Construction,0.96,2019-01-26,2019-02-01
+Maintenance,Plumbing,0.87,2019-01-26,2019-02-03
+Building,New Construction,1.0,2019-01-26,2019-01-31
+Building,Renovation,1.69,2019-01-26,2019-02-19
+Maintenance,Mechanical,0.67,2019-01-26,2019-02-02
+Building,New Construction,0.83,2019-01-26,2019-02-01
+Maintenance,Plumbing,2.11,2019-01-26,2019-02-05
+Maintenance,Plumbing,1.26,2019-01-27,2019-02-03
+Maintenance,Plumbing,0.87,2019-01-27,2019-02-02
+Maintenance,Electrical,0.81,2019-01-27,2019-02-05
+Building,Renovation,1.42,2019-01-27,2019-02-17
+Maintenance,Mechanical,0.4,2019-01-27,2019-02-03
+Maintenance,Electrical,0.96,2019-01-28,2019-02-07
+Building,New Construction,1.13,2019-01-28,2019-02-06
+Building,Renovation,1.75,2019-01-28,2019-02-21
+Maintenance,Electrical,1.17,2019-01-28,2019-02-06
+Maintenance,Mechanical,1.26,2019-01-28,2019-02-06
+Maintenance,Plumbing,0.85,2019-01-28,2019-02-07
+Building,Renovation,0.92,2019-01-29,2019-02-22
+Maintenance,Mechanical,1.65,2019-01-29,2019-02-10
+Building,New Construction,0.65,2019-01-30,2019-02-03
+Building,New Construction,1.16,2019-01-30,2019-02-07
+Building,New Construction,1.67,2019-01-30,2019-02-07
+Building,Renovation,1.36,2019-01-30,2019-02-26
+Maintenance,Mechanical,0.96,2019-01-30,2019-02-05
+Building,New Construction,0.79,2019-01-30,2019-02-05
+Building,Renovation,0.9,2019-01-30,2019-02-20
+Building,Renovation,1.65,2019-01-31,2019-02-25
+Building,Renovation,1.15,2019-01-31,2019-02-23
+Building,New Construction,0.85,2019-01-31,2019-02-10
+Building,Renovation,0.96,2019-01-31,2019-02-21
+Maintenance,Plumbing,0.89,2019-01-31,2019-02-05
+Maintenance,Mechanical,1.38,2019-02-01,2019-02-12
+Building,Renovation,1.3,2019-02-02,2019-02-28
+Building,Renovation,0.98,2019-02-03,2019-03-02
+Maintenance,Plumbing,1.5,2019-02-03,2019-02-14
+Maintenance,Electrical,1.43,2019-02-03,2019-02-13
+Building,New Construction,0.92,2019-02-03,2019-02-08
+Maintenance,Electrical,0.58,2019-02-04,2019-02-14
+Maintenance,Electrical,1.19,2019-02-04,2019-02-15
+Maintenance,Plumbing,0.29,2019-02-04,2019-02-08
+Maintenance,Electrical,1.44,2019-02-04,2019-02-16
+Maintenance,Plumbing,1.34,2019-02-04,2019-02-12
+Maintenance,Plumbing,0.7,2019-02-04,2019-02-12
+Building,Renovation,1.27,2019-02-04,2019-03-01
+Maintenance,Electrical,0.5,2019-02-06,2019-02-12
+Maintenance,Mechanical,0.63,2019-02-06,2019-02-12
+Maintenance,Plumbing,1.31,2019-02-06,2019-02-16
+Maintenance,Mechanical,2.18,2019-02-07,2019-02-23
+Maintenance,Mechanical,1.73,2019-02-07,2019-02-16
+Building,New Construction,1.56,2019-02-07,2019-02-15
+Maintenance,Electrical,1.28,2019-02-07,2019-02-15
+Building,New Construction,0.9,2019-02-07,2019-02-17
+Maintenance,Mechanical,1.22,2019-02-08,2019-02-20
+Maintenance,Mechanical,0.36,2019-02-08,2019-02-17
+Maintenance,Mechanical,0.94,2019-02-08,2019-02-18
+Building,New Construction,1.34,2019-02-08,2019-02-17
+Maintenance,Mechanical,0.74,2019-02-09,2019-02-17
+Maintenance,Plumbing,0.94,2019-02-09,2019-02-14
+Maintenance,Plumbing,1.07,2019-02-10,2019-02-16
+Maintenance,Plumbing,1.02,2019-02-10,2019-02-20
+Maintenance,Plumbing,1.44,2019-02-10,2019-02-18
+Maintenance,Plumbing,1.28,2019-02-12,2019-02-18
+Building,Renovation,1.4,2019-02-12,2019-03-06
+Building,Renovation,1.16,2019-02-13,2019-03-07
+Maintenance,Electrical,1.28,2019-02-13,2019-02-21
+Building,Renovation,1.76,2019-02-13,2019-03-05
+Building,Renovation,1.06,2019-02-13,2019-03-05
+Maintenance,Plumbing,1.29,2019-02-14,2019-02-19
+Maintenance,Plumbing,0.78,2019-02-14,2019-02-20
+Maintenance,Plumbing,0.56,2019-02-14,2019-02-19
+Maintenance,Plumbing,0.88,2019-02-14,2019-02-23
+Maintenance,Electrical,1.87,2019-02-15,2019-02-23
+Building,Renovation,1.27,2019-02-15,2019-03-13
+Building,Renovation,1.03,2019-02-15,2019-03-11
+Building,Renovation,0.87,2019-02-15,2019-03-05
+Maintenance,Mechanical,0.71,2019-02-16,2019-02-22
+Maintenance,Electrical,1.04,2019-02-16,2019-02-24
+Building,New Construction,0.46,2019-02-16,2019-02-22
+Maintenance,Plumbing,1.04,2019-02-17,2019-02-28
+Building,New Construction,0.96,2019-02-17,2019-02-23
+Building,Renovation,1.21,2019-02-18,2019-03-12
+Maintenance,Mechanical,0.98,2019-02-19,2019-02-25
+Maintenance,Mechanical,1.06,2019-02-19,2019-02-27
+Maintenance,Mechanical,1.1,2019-02-19,2019-03-05
+Maintenance,Mechanical,0.9,2019-02-20,2019-02-26
+Maintenance,Electrical,0.67,2019-02-20,2019-02-27
+Building,New Construction,1.3,2019-02-20,2019-03-04
+Maintenance,Plumbing,2.56,2019-02-20,2019-03-02
+Building,New Construction,1.16,2019-02-21,2019-03-02
+Building,Renovation,1.0,2019-02-21,2019-03-15
+Building,New Construction,0.89,2019-02-21,2019-02-28
+Maintenance,Plumbing,1.08,2019-02-21,2019-02-27
+Maintenance,Electrical,0.76,2019-02-22,2019-02-28
+Maintenance,Mechanical,0.92,2019-02-22,2019-03-01
+Maintenance,Plumbing,1.85,2019-02-22,2019-03-05
+Building,Renovation,0.7,2019-02-22,2019-03-18
+Maintenance,Electrical,0.72,2019-02-23,2019-03-04
+Building,New Construction,0.79,2019-02-23,2019-03-03
+Maintenance,Plumbing,1.35,2019-02-23,2019-03-03
+Maintenance,Electrical,1.2,2019-02-23,2019-03-04
+Maintenance,Electrical,0.58,2019-02-25,2019-03-05
+Maintenance,Plumbing,0.71,2019-02-26,2019-03-02
+Maintenance,Electrical,1.7,2019-02-26,2019-03-07
+Maintenance,Mechanical,1.89,2019-02-26,2019-03-05
+Maintenance,Plumbing,0.79,2019-02-26,2019-03-02
+Maintenance,Plumbing,1.38,2019-02-26,2019-03-09
+Building,New Construction,0.67,2019-02-26,2019-03-06
+Building,Renovation,0.65,2019-02-27,2019-03-23
+Building,Renovation,0.94,2019-02-27,2019-03-20
+Maintenance,Electrical,0.9,2019-02-28,2019-03-05
+Maintenance,Electrical,1.69,2019-02-28,2019-03-06
+Maintenance,Plumbing,0.92,2019-02-28,2019-03-08
+Building,New Construction,1.4,2019-02-28,2019-03-09
+Building,Renovation,2.42,2019-02-28,2019-03-23
+Maintenance,Mechanical,1.36,2019-03-01,2019-03-12
+Building,Renovation,1.86,2019-03-01,2019-03-30
+Maintenance,Electrical,1.31,2019-03-01,2019-03-13
+Building,New Construction,0.78,2019-03-01,2019-03-08
+Maintenance,Plumbing,0.76,2019-03-01,2019-03-11
+Maintenance,Plumbing,0.76,2019-03-01,2019-03-08
+Maintenance,Mechanical,1.76,2019-03-02,2019-03-10
+Maintenance,Plumbing,0.77,2019-03-02,2019-03-06
+Building,Renovation,0.95,2019-03-02,2019-03-24
+Maintenance,Mechanical,0.4,2019-03-02,2019-03-09
+Building,New Construction,1.44,2019-03-03,2019-03-14
+Building,New Construction,2.16,2019-03-03,2019-03-13
+Building,New Construction,0.59,2019-03-03,2019-03-13
+Building,New Construction,0.71,2019-03-04,2019-03-10
+Maintenance,Mechanical,1.27,2019-03-04,2019-03-13
+Maintenance,Mechanical,1.47,2019-03-04,2019-03-13
+Maintenance,Electrical,1.44,2019-03-04,2019-03-13
+Maintenance,Plumbing,0.59,2019-03-04,2019-03-09
+Maintenance,Electrical,0.5,2019-03-04,2019-03-11
+Maintenance,Mechanical,1.53,2019-03-05,2019-03-16
+Maintenance,Electrical,1.28,2019-03-05,2019-03-12
+Maintenance,Plumbing,0.84,2019-03-06,2019-03-10
+Maintenance,Mechanical,0.67,2019-03-06,2019-03-18
+Building,New Construction,0.68,2019-03-06,2019-03-12
+Maintenance,Mechanical,0.95,2019-03-07,2019-03-17
+Maintenance,Plumbing,0.78,2019-03-08,2019-03-14
+Building,New Construction,0.46,2019-03-08,2019-03-14
+Maintenance,Electrical,1.16,2019-03-08,2019-03-16
+Building,New Construction,1.01,2019-03-09,2019-03-18
+Building,Renovation,0.89,2019-03-09,2019-03-30
+Building,Renovation,3.02,2019-03-09,2019-04-06
+Maintenance,Mechanical,0.84,2019-03-09,2019-03-16
+Building,Renovation,1.06,2019-03-09,2019-04-02
+Maintenance,Mechanical,1.11,2019-03-10,2019-03-20
+Building,Renovation,1.1,2019-03-10,2019-04-02
+Building,New Construction,1.03,2019-03-11,2019-03-18
+Maintenance,Plumbing,1.18,2019-03-11,2019-03-20
+Maintenance,Mechanical,0.94,2019-03-11,2019-03-21
+Building,New Construction,0.47,2019-03-11,2019-03-16
+Building,Renovation,1.32,2019-03-11,2019-04-02
+Maintenance,Mechanical,0.98,2019-03-11,2019-03-18
+Building,Renovation,1.11,2019-03-11,2019-04-06
+Building,New Construction,0.76,2019-03-12,2019-03-18
+Maintenance,Electrical,0.46,2019-03-12,2019-03-19
+Maintenance,Electrical,1.96,2019-03-12,2019-03-18
+Maintenance,Plumbing,1.19,2019-03-13,2019-03-21
+Maintenance,Electrical,1.65,2019-03-13,2019-03-22
+Maintenance,Mechanical,1.11,2019-03-14,2019-03-25
+Building,Renovation,1.14,2019-03-14,2019-04-02
+Building,Renovation,0.67,2019-03-14,2019-04-05
+Maintenance,Electrical,0.81,2019-03-15,2019-03-21
+Maintenance,Electrical,1.6,2019-03-15,2019-03-24
+Maintenance,Electrical,0.67,2019-03-16,2019-03-22
+Building,New Construction,1.73,2019-03-16,2019-03-27
+Maintenance,Plumbing,0.66,2019-03-16,2019-03-24
+Maintenance,Electrical,1.25,2019-03-16,2019-03-24
+Maintenance,Electrical,0.71,2019-03-17,2019-03-24
+Maintenance,Mechanical,0.58,2019-03-17,2019-03-25
+Maintenance,Electrical,1.23,2019-03-17,2019-03-26
+Building,New Construction,1.28,2019-03-18,2019-03-26
+Building,New Construction,0.69,2019-03-18,2019-03-23
+Maintenance,Electrical,1.3,2019-03-18,2019-03-31
+Building,New Construction,1.37,2019-03-19,2019-03-27
+Maintenance,Electrical,1.42,2019-03-19,2019-03-27
+Maintenance,Plumbing,0.77,2019-03-19,2019-03-24
+Maintenance,Mechanical,1.11,2019-03-20,2019-03-28
+Maintenance,Electrical,1.46,2019-03-20,2019-03-29
+Maintenance,Electrical,0.49,2019-03-20,2019-03-29
+Building,Renovation,1.58,2019-03-21,2019-04-14
+Maintenance,Electrical,1.38,2019-03-21,2019-03-30
+Maintenance,Electrical,0.95,2019-03-21,2019-03-28
+Maintenance,Mechanical,1.74,2019-03-22,2019-04-03
+Building,New Construction,0.97,2019-03-22,2019-03-26
+Building,New Construction,1.9,2019-03-23,2019-03-31
+Building,New Construction,0.98,2019-03-23,2019-03-28
+Building,New Construction,1.18,2019-03-23,2019-04-01
+Maintenance,Mechanical,1.96,2019-03-25,2019-04-05
+Maintenance,Plumbing,1.96,2019-03-25,2019-04-05
+Building,Renovation,0.75,2019-03-25,2019-04-15
+Maintenance,Mechanical,0.59,2019-03-25,2019-04-02
+Maintenance,Mechanical,1.18,2019-03-27,2019-04-09
+Building,Renovation,1.71,2019-03-27,2019-04-19
+Maintenance,Mechanical,0.93,2019-03-27,2019-04-02
+Maintenance,Plumbing,1.38,2019-03-27,2019-04-08
+Building,Renovation,1.16,2019-03-28,2019-04-20
+Building,New Construction,1.14,2019-03-28,2019-04-05
+Maintenance,Electrical,0.96,2019-03-29,2019-04-07
+Maintenance,Mechanical,1.27,2019-03-29,2019-04-06
+Building,New Construction,1.39,2019-03-29,2019-04-06
+Maintenance,Mechanical,1.17,2019-03-29,2019-04-07
+Maintenance,Plumbing,1.22,2019-03-29,2019-04-05
+Maintenance,Plumbing,0.86,2019-03-30,2019-04-06
+Maintenance,Electrical,0.93,2019-03-31,2019-04-07
+Building,Renovation,1.45,2019-04-01,2019-04-25
+Maintenance,Mechanical,1.38,2019-04-01,2019-04-13
+Maintenance,Electrical,2.04,2019-04-02,2019-04-13
+Maintenance,Mechanical,0.79,2019-04-02,2019-04-08
+Maintenance,Mechanical,0.9,2019-04-02,2019-04-12
+Maintenance,Plumbing,1.54,2019-04-02,2019-04-13
+Building,New Construction,1.08,2019-04-02,2019-04-10
+Maintenance,Electrical,1.65,2019-04-03,2019-04-15
+Maintenance,Electrical,0.98,2019-04-03,2019-04-10
+Building,New Construction,2.25,2019-04-03,2019-04-14
+Maintenance,Electrical,0.84,2019-04-03,2019-04-13
+Building,Renovation,0.58,2019-04-03,2019-04-28
+Building,Renovation,1.22,2019-04-04,2019-04-28
+Building,Renovation,1.0,2019-04-05,2019-04-26
+Maintenance,Plumbing,0.57,2019-04-05,2019-04-10
+Building,New Construction,1.39,2019-04-05,2019-04-13
+Building,New Construction,0.8,2019-04-06,2019-04-16
+Maintenance,Plumbing,0.63,2019-04-06,2019-04-12
+Maintenance,Mechanical,1.35,2019-04-06,2019-04-16
+Building,Renovation,0.7,2019-04-07,2019-04-29
+Building,Renovation,0.93,2019-04-07,2019-05-03
+Building,Renovation,0.87,2019-04-07,2019-05-01
+Maintenance,Plumbing,1.6,2019-04-10,2019-04-20
+Maintenance,Plumbing,0.97,2019-04-10,2019-04-18
+Building,Renovation,0.75,2019-04-11,2019-05-01
+Building,New Construction,1.0,2019-04-11,2019-04-17
+Maintenance,Mechanical,0.79,2019-04-12,2019-04-22
+Building,New Construction,0.78,2019-04-12,2019-04-19
+Maintenance,Plumbing,0.65,2019-04-12,2019-04-21
+Building,New Construction,0.77,2019-04-12,2019-04-19
+Maintenance,Plumbing,0.61,2019-04-12,2019-04-16
+Maintenance,Electrical,1.13,2019-04-12,2019-04-21
+Building,New Construction,0.8,2019-04-13,2019-04-22
+Maintenance,Mechanical,1.1,2019-04-13,2019-04-20
+Maintenance,Electrical,1.38,2019-04-13,2019-04-21
+Maintenance,Plumbing,1.5,2019-04-13,2019-04-21
+Building,Renovation,1.29,2019-04-13,2019-05-07
+Building,New Construction,1.05,2019-04-14,2019-04-23
+Building,New Construction,1.0,2019-04-14,2019-04-21
+Building,New Construction,1.34,2019-04-15,2019-04-24
+Maintenance,Mechanical,0.7,2019-04-15,2019-04-26
+Maintenance,Plumbing,0.46,2019-04-15,2019-04-19
+Building,New Construction,1.43,2019-04-16,2019-04-25
+Building,New Construction,1.45,2019-04-16,2019-04-28
+Building,Renovation,1.74,2019-04-16,2019-05-04
+Maintenance,Electrical,0.82,2019-04-16,2019-04-26
+Maintenance,Plumbing,1.72,2019-04-16,2019-04-22
+Building,New Construction,0.86,2019-04-17,2019-04-28
+Maintenance,Electrical,1.53,2019-04-17,2019-04-28
+Maintenance,Plumbing,1.12,2019-04-17,2019-04-25
+Building,New Construction,0.53,2019-04-18,2019-04-23
+Maintenance,Plumbing,1.73,2019-04-18,2019-04-26
+Maintenance,Plumbing,1.4,2019-04-18,2019-04-29
+Building,Renovation,0.28,2019-04-18,2019-05-08
+Maintenance,Mechanical,0.61,2019-04-18,2019-04-25
+Maintenance,Mechanical,1.06,2019-04-18,2019-04-29
+Maintenance,Mechanical,0.45,2019-04-19,2019-04-30
+Maintenance,Plumbing,0.6,2019-04-19,2019-04-27
+Building,New Construction,0.75,2019-04-19,2019-04-25
+Building,New Construction,0.89,2019-04-19,2019-04-24
+Building,Renovation,0.99,2019-04-20,2019-05-11
+Maintenance,Mechanical,0.61,2019-04-20,2019-04-28
+Maintenance,Plumbing,1.74,2019-04-20,2019-04-30
+Maintenance,Plumbing,0.77,2019-04-20,2019-04-25
+Building,New Construction,0.81,2019-04-20,2019-04-29
+Building,Renovation,2.08,2019-04-20,2019-05-15
+Building,Renovation,0.5,2019-04-20,2019-05-13
+Maintenance,Electrical,1.14,2019-04-20,2019-04-28
+Maintenance,Plumbing,1.07,2019-04-21,2019-04-29
+Maintenance,Electrical,0.8,2019-04-21,2019-04-28
+Building,Renovation,0.62,2019-04-21,2019-05-10
+Maintenance,Electrical,1.08,2019-04-21,2019-04-29
+Maintenance,Mechanical,2.06,2019-04-21,2019-05-03
+Maintenance,Electrical,0.87,2019-04-22,2019-05-02
+Maintenance,Mechanical,1.43,2019-04-23,2019-05-05
+Maintenance,Electrical,1.37,2019-04-23,2019-05-02
+Maintenance,Mechanical,1.08,2019-04-23,2019-05-04
+Maintenance,Electrical,1.39,2019-04-25,2019-05-04
+Building,New Construction,0.99,2019-04-25,2019-05-01
+Maintenance,Electrical,0.58,2019-04-25,2019-05-05
+Maintenance,Mechanical,1.05,2019-04-26,2019-05-08
+Maintenance,Mechanical,1.37,2019-04-26,2019-05-08
+Building,Renovation,1.18,2019-04-26,2019-05-16
+Maintenance,Plumbing,1.21,2019-04-27,2019-05-08
+Maintenance,Mechanical,0.45,2019-04-27,2019-05-04
+Maintenance,Electrical,1.45,2019-04-28,2019-05-07
+Building,New Construction,0.98,2019-04-29,2019-05-09
+Maintenance,Mechanical,1.25,2019-04-29,2019-05-07
+Maintenance,Mechanical,1.52,2019-04-29,2019-05-10
+Building,Renovation,1.03,2019-04-30,2019-05-29
+Maintenance,Electrical,1.53,2019-04-30,2019-05-10
+Maintenance,Plumbing,0.82,2019-05-01,2019-05-06
+Maintenance,Electrical,1.29,2019-05-01,2019-05-09
+Building,New Construction,0.7,2019-05-01,2019-05-09
+Building,Renovation,1.05,2019-05-01,2019-05-24
+Building,New Construction,0.65,2019-05-01,2019-05-09
+Maintenance,Plumbing,1.53,2019-05-03,2019-05-12
+Building,Renovation,0.88,2019-05-03,2019-05-26
+Maintenance,Mechanical,1.24,2019-05-04,2019-05-13
+Building,New Construction,0.58,2019-05-04,2019-05-12
+Maintenance,Mechanical,1.42,2019-05-04,2019-05-15
+Maintenance,Plumbing,1.25,2019-05-05,2019-05-13
+Maintenance,Plumbing,0.53,2019-05-05,2019-05-16
+Maintenance,Mechanical,1.07,2019-05-05,2019-05-13
+Maintenance,Electrical,0.58,2019-05-06,2019-05-12
+Maintenance,Electrical,1.6,2019-05-06,2019-05-15
+Maintenance,Electrical,1.57,2019-05-07,2019-05-16
+Building,New Construction,1.45,2019-05-07,2019-05-14
+Maintenance,Mechanical,2.11,2019-05-07,2019-05-19
+Building,New Construction,0.9,2019-05-07,2019-05-16
+Maintenance,Plumbing,0.96,2019-05-07,2019-05-16
+Maintenance,Mechanical,0.81,2019-05-07,2019-05-17
+Maintenance,Plumbing,0.68,2019-05-07,2019-05-13
+Maintenance,Electrical,1.56,2019-05-08,2019-05-16
+Building,New Construction,0.97,2019-05-08,2019-05-14
+Building,Renovation,0.75,2019-05-09,2019-05-28
+Maintenance,Mechanical,0.9,2019-05-09,2019-05-20
+Maintenance,Mechanical,1.11,2019-05-09,2019-05-18
+Building,Renovation,0.57,2019-05-10,2019-06-02
+Maintenance,Mechanical,0.69,2019-05-10,2019-05-16
+Building,New Construction,1.3,2019-05-10,2019-05-20
+Building,Renovation,1.39,2019-05-11,2019-05-31
+Building,Renovation,1.1,2019-05-12,2019-06-05
+Maintenance,Electrical,0.85,2019-05-12,2019-05-18
+Maintenance,Mechanical,0.72,2019-05-12,2019-05-20
+Maintenance,Plumbing,0.84,2019-05-13,2019-05-16
+Maintenance,Electrical,0.72,2019-05-13,2019-05-19
+Building,New Construction,0.9,2019-05-13,2019-05-19
+Maintenance,Mechanical,0.9,2019-05-14,2019-05-21
+Maintenance,Electrical,0.92,2019-05-14,2019-05-19
+Maintenance,Plumbing,1.47,2019-05-14,2019-05-20
+Building,Renovation,0.97,2019-05-14,2019-06-09
+Maintenance,Mechanical,0.62,2019-05-16,2019-05-25
+Maintenance,Mechanical,1.63,2019-05-16,2019-05-24
+Maintenance,Electrical,1.0,2019-05-17,2019-05-23
+Maintenance,Plumbing,0.41,2019-05-17,2019-05-23
+Maintenance,Mechanical,0.49,2019-05-17,2019-05-23
+Maintenance,Plumbing,1.08,2019-05-17,2019-05-28
+Maintenance,Plumbing,1.11,2019-05-17,2019-05-26
+Building,New Construction,1.25,2019-05-18,2019-05-30
+Maintenance,Electrical,0.79,2019-05-18,2019-05-23
+Building,New Construction,1.18,2019-05-18,2019-05-24
+Maintenance,Electrical,0.88,2019-05-18,2019-05-24
+Building,New Construction,0.73,2019-05-18,2019-05-26
+Maintenance,Plumbing,0.9,2019-05-19,2019-05-28
+Building,New Construction,1.08,2019-05-19,2019-05-31
+Maintenance,Plumbing,1.75,2019-05-19,2019-05-31
+Building,Renovation,1.18,2019-05-19,2019-06-14
+Maintenance,Mechanical,1.26,2019-05-20,2019-05-31
+Building,Renovation,1.24,2019-05-20,2019-06-13
+Maintenance,Mechanical,0.88,2019-05-21,2019-05-26
+Building,Renovation,0.99,2019-05-21,2019-06-11
+Maintenance,Mechanical,1.04,2019-05-21,2019-06-01
+Maintenance,Electrical,1.12,2019-05-22,2019-06-01
+Maintenance,Mechanical,0.36,2019-05-22,2019-05-31
+Maintenance,Plumbing,1.98,2019-05-22,2019-05-29
+Maintenance,Mechanical,1.1,2019-05-23,2019-05-31
+Building,New Construction,1.47,2019-05-23,2019-06-01
+Building,Renovation,0.66,2019-05-23,2019-06-14
+Maintenance,Electrical,1.05,2019-05-24,2019-06-02
+Maintenance,Mechanical,1.56,2019-05-24,2019-06-01
+Maintenance,Electrical,0.93,2019-05-24,2019-06-03
+Building,Renovation,1.26,2019-05-24,2019-06-18
+Maintenance,Mechanical,2.01,2019-05-25,2019-06-05
+Building,Renovation,1.43,2019-05-25,2019-06-18
+Maintenance,Electrical,0.87,2019-05-25,2019-06-04
+Maintenance,Mechanical,1.26,2019-05-26,2019-06-04
+Building,Renovation,1.42,2019-05-26,2019-06-17
+Maintenance,Electrical,1.12,2019-05-26,2019-06-07
+Maintenance,Mechanical,0.66,2019-05-26,2019-06-02
+Maintenance,Electrical,0.95,2019-05-26,2019-06-03
+Building,Renovation,1.94,2019-05-27,2019-06-16
+Maintenance,Electrical,1.51,2019-05-27,2019-06-02
+Maintenance,Mechanical,0.44,2019-05-28,2019-06-08
+Building,Renovation,2.12,2019-05-28,2019-06-22
+Maintenance,Mechanical,1.38,2019-05-28,2019-06-07
+Maintenance,Plumbing,0.29,2019-05-29,2019-06-06
+Building,Renovation,1.1,2019-05-29,2019-06-20
+Maintenance,Plumbing,1.08,2019-05-29,2019-06-07
+Maintenance,Mechanical,0.62,2019-05-30,2019-06-08
+Maintenance,Plumbing,1.28,2019-05-31,2019-06-07
+Building,New Construction,0.73,2019-06-01,2019-06-08
+Building,New Construction,1.79,2019-06-01,2019-06-09
+Building,New Construction,1.05,2019-06-01,2019-06-09
+Maintenance,Electrical,0.48,2019-06-01,2019-06-09
+Maintenance,Electrical,1.24,2019-06-02,2019-06-14
+Maintenance,Electrical,1.47,2019-06-02,2019-06-11
+Building,Renovation,0.51,2019-06-02,2019-06-23
+Maintenance,Plumbing,0.62,2019-06-04,2019-06-11
+Building,Renovation,0.77,2019-06-04,2019-06-23
+Maintenance,Electrical,0.85,2019-06-04,2019-06-10
+Maintenance,Mechanical,1.01,2019-06-04,2019-06-15
+Building,New Construction,1.13,2019-06-04,2019-06-13
+Maintenance,Mechanical,1.69,2019-06-05,2019-06-14
+Maintenance,Mechanical,1.18,2019-06-05,2019-06-14
+Maintenance,Plumbing,1.87,2019-06-05,2019-06-17
+Maintenance,Mechanical,1.27,2019-06-06,2019-06-15
+Maintenance,Plumbing,1.08,2019-06-07,2019-06-19
+Maintenance,Mechanical,0.87,2019-06-07,2019-06-14
+Maintenance,Plumbing,0.79,2019-06-08,2019-06-14
+Building,New Construction,1.01,2019-06-08,2019-06-15
+Maintenance,Mechanical,1.75,2019-06-08,2019-06-17
+Maintenance,Electrical,1.28,2019-06-08,2019-06-16
+Building,New Construction,1.17,2019-06-08,2019-06-17
+Building,Renovation,0.69,2019-06-09,2019-07-01
+Building,New Construction,0.98,2019-06-09,2019-06-19
+Building,Renovation,0.79,2019-06-12,2019-07-05
+Building,Renovation,3.16,2019-06-12,2019-07-12
+Maintenance,Mechanical,0.79,2019-06-13,2019-06-20
+Building,New Construction,1.41,2019-06-13,2019-06-24
+Maintenance,Mechanical,1.84,2019-06-13,2019-06-24
+Maintenance,Plumbing,1.64,2019-06-13,2019-06-20
+Building,Renovation,1.39,2019-06-14,2019-07-04
+Building,New Construction,1.18,2019-06-14,2019-06-22
+Maintenance,Electrical,0.93,2019-06-15,2019-06-24
+Maintenance,Mechanical,1.38,2019-06-15,2019-06-23
+Maintenance,Plumbing,1.01,2019-06-15,2019-06-22
+Maintenance,Electrical,0.46,2019-06-15,2019-06-25
+Maintenance,Mechanical,0.84,2019-06-16,2019-06-24
+Building,Renovation,1.31,2019-06-16,2019-07-13
+Building,Renovation,1.08,2019-06-18,2019-07-14
+Building,New Construction,0.89,2019-06-18,2019-06-24
+Building,Renovation,0.56,2019-06-18,2019-07-07
+Maintenance,Mechanical,1.31,2019-06-18,2019-06-26
+Maintenance,Mechanical,1.23,2019-06-19,2019-06-30
+Maintenance,Plumbing,1.81,2019-06-19,2019-06-25
+Maintenance,Electrical,1.3,2019-06-19,2019-06-27
+Building,Renovation,1.96,2019-06-19,2019-07-13
+Building,New Construction,1.5,2019-06-20,2019-06-28
+Building,Renovation,1.39,2019-06-20,2019-07-17
+Building,Renovation,0.84,2019-06-20,2019-07-12
+Building,Renovation,1.23,2019-06-20,2019-07-10
+Maintenance,Electrical,0.55,2019-06-20,2019-06-30
+Maintenance,Plumbing,1.51,2019-06-20,2019-06-28
+Maintenance,Plumbing,1.24,2019-06-21,2019-06-28
+Maintenance,Plumbing,1.06,2019-06-21,2019-06-30
+Maintenance,Mechanical,1.35,2019-06-21,2019-06-30
+Building,New Construction,0.88,2019-06-22,2019-07-02
+Maintenance,Plumbing,2.01,2019-06-22,2019-07-02
+Maintenance,Plumbing,0.76,2019-06-24,2019-07-01
+Maintenance,Electrical,1.25,2019-06-24,2019-07-01
+Building,Renovation,0.88,2019-06-24,2019-07-14
+Building,New Construction,0.72,2019-06-24,2019-06-30
+Maintenance,Mechanical,1.21,2019-06-25,2019-07-04
+Maintenance,Plumbing,1.1,2019-06-25,2019-07-04
+Building,New Construction,0.82,2019-06-25,2019-07-04
+Building,Renovation,1.49,2019-06-26,2019-07-16
+Building,New Construction,0.83,2019-06-26,2019-07-02
+Maintenance,Electrical,0.58,2019-06-26,2019-07-01
+Building,New Construction,0.94,2019-06-26,2019-07-02
+Maintenance,Electrical,1.34,2019-06-26,2019-07-04
+Maintenance,Mechanical,0.93,2019-06-27,2019-07-02
+Maintenance,Plumbing,1.56,2019-06-28,2019-07-04
+Maintenance,Mechanical,2.51,2019-06-28,2019-07-11
+Maintenance,Plumbing,1.12,2019-06-28,2019-07-08
+Building,New Construction,0.92,2019-06-29,2019-07-09
+Building,New Construction,1.61,2019-06-29,2019-07-08
+Building,Renovation,0.98,2019-06-29,2019-07-20
+Maintenance,Electrical,1.66,2019-06-30,2019-07-08
+Maintenance,Plumbing,0.71,2019-06-30,2019-07-09
+Maintenance,Electrical,1.68,2019-07-01,2019-07-09
+Maintenance,Plumbing,1.6,2019-07-01,2019-07-08
+Building,Renovation,1.16,2019-07-02,2019-07-29
+Maintenance,Plumbing,1.64,2019-07-02,2019-07-11
+Building,Renovation,0.57,2019-07-03,2019-07-21
+Building,Renovation,0.81,2019-07-03,2019-07-27
+Maintenance,Electrical,0.85,2019-07-03,2019-07-08
+Maintenance,Plumbing,0.88,2019-07-03,2019-07-07
+Maintenance,Mechanical,1.19,2019-07-04,2019-07-13
+Maintenance,Plumbing,0.68,2019-07-05,2019-07-12
+Maintenance,Mechanical,0.9,2019-07-05,2019-07-16
+Maintenance,Electrical,2.32,2019-07-05,2019-07-20
+Building,Renovation,1.27,2019-07-06,2019-08-02
+Building,Renovation,0.76,2019-07-06,2019-07-25
+Maintenance,Plumbing,2.23,2019-07-06,2019-07-15
+Maintenance,Electrical,0.75,2019-07-06,2019-07-13
+Building,New Construction,0.87,2019-07-07,2019-07-15
+Maintenance,Mechanical,1.75,2019-07-07,2019-07-15
+Building,New Construction,0.56,2019-07-07,2019-07-15
+Building,Renovation,1.94,2019-07-08,2019-08-04
+Building,Renovation,0.87,2019-07-08,2019-07-31
+Maintenance,Mechanical,0.86,2019-07-08,2019-07-15
+Building,Renovation,1.15,2019-07-08,2019-07-31
+Maintenance,Electrical,2.27,2019-07-09,2019-07-19
+Maintenance,Mechanical,1.1,2019-07-10,2019-07-21
+Building,New Construction,0.86,2019-07-10,2019-07-17
+Maintenance,Mechanical,0.59,2019-07-10,2019-07-17
+Maintenance,Plumbing,0.62,2019-07-10,2019-07-19
+Building,Renovation,0.87,2019-07-10,2019-07-30
+Building,Renovation,1.53,2019-07-11,2019-08-01
+Maintenance,Electrical,1.21,2019-07-11,2019-07-18
+Maintenance,Plumbing,0.63,2019-07-11,2019-07-16
+Maintenance,Electrical,0.96,2019-07-12,2019-07-17
+Building,New Construction,2.16,2019-07-12,2019-07-22
+Building,New Construction,1.49,2019-07-12,2019-07-20
+Building,Renovation,0.43,2019-07-12,2019-08-07
+Maintenance,Mechanical,1.19,2019-07-12,2019-07-22
+Building,New Construction,1.45,2019-07-13,2019-07-22
+Maintenance,Mechanical,1.32,2019-07-13,2019-07-21
+Maintenance,Plumbing,0.66,2019-07-13,2019-07-21
+Maintenance,Mechanical,1.05,2019-07-13,2019-07-23
+Maintenance,Electrical,1.45,2019-07-13,2019-07-26
+Maintenance,Plumbing,0.76,2019-07-14,2019-07-20
+Maintenance,Electrical,1.18,2019-07-14,2019-07-22
+Maintenance,Mechanical,0.95,2019-07-14,2019-07-21
+Building,Renovation,0.84,2019-07-15,2019-08-09
+Building,Renovation,1.07,2019-07-15,2019-08-05
+Maintenance,Electrical,0.75,2019-07-15,2019-07-22
+Maintenance,Plumbing,0.64,2019-07-16,2019-07-21
+Maintenance,Mechanical,1.29,2019-07-16,2019-07-24
+Maintenance,Plumbing,0.91,2019-07-16,2019-07-21
+Building,Renovation,1.23,2019-07-16,2019-08-10
+Building,New Construction,0.76,2019-07-16,2019-07-23
+Building,Renovation,1.18,2019-07-16,2019-08-08
+Maintenance,Mechanical,1.1,2019-07-16,2019-07-28
+Building,New Construction,1.39,2019-07-17,2019-07-25
+Maintenance,Electrical,0.45,2019-07-17,2019-07-24
+Maintenance,Plumbing,0.89,2019-07-17,2019-07-22
+Maintenance,Plumbing,0.94,2019-07-17,2019-07-23
+Building,Renovation,0.8,2019-07-18,2019-08-05
+Maintenance,Mechanical,1.27,2019-07-18,2019-07-27
+Maintenance,Electrical,0.93,2019-07-18,2019-07-26
+Maintenance,Plumbing,1.15,2019-07-18,2019-07-25
+Maintenance,Plumbing,2.03,2019-07-18,2019-07-27
+Maintenance,Mechanical,1.67,2019-07-19,2019-07-29
+Maintenance,Mechanical,0.71,2019-07-19,2019-07-26
+Building,Renovation,1.25,2019-07-20,2019-08-14
+Building,Renovation,0.85,2019-07-20,2019-08-10
+Building,Renovation,1.3,2019-07-20,2019-08-14
+Maintenance,Electrical,1.14,2019-07-21,2019-07-30
+Maintenance,Electrical,1.54,2019-07-21,2019-07-29
+Building,New Construction,0.81,2019-07-21,2019-07-31
+Building,Renovation,0.66,2019-07-22,2019-08-13
+Maintenance,Mechanical,1.04,2019-07-24,2019-08-03
+Building,Renovation,0.9,2019-07-24,2019-08-18
+Building,Renovation,1.56,2019-07-24,2019-08-17
+Maintenance,Electrical,1.51,2019-07-25,2019-08-07
+Building,Renovation,0.42,2019-07-25,2019-08-16
+Building,Renovation,1.02,2019-07-26,2019-08-16
+Building,New Construction,1.32,2019-07-26,2019-08-04
+Building,New Construction,1.47,2019-07-26,2019-08-04
+Building,New Construction,1.51,2019-07-26,2019-08-04
+Building,New Construction,1.29,2019-07-27,2019-08-06
+Maintenance,Mechanical,1.9,2019-07-27,2019-08-08
+Maintenance,Plumbing,1.01,2019-07-27,2019-08-03
+Maintenance,Electrical,0.78,2019-07-27,2019-08-02
+Maintenance,Plumbing,1.02,2019-07-27,2019-08-06
+Maintenance,Electrical,0.56,2019-07-27,2019-08-04
+Building,Renovation,0.72,2019-07-28,2019-08-18
+Maintenance,Mechanical,1.26,2019-07-28,2019-08-05
+Building,New Construction,0.84,2019-07-29,2019-08-03
+Building,Renovation,0.89,2019-07-29,2019-08-15
+Building,Renovation,1.47,2019-07-29,2019-08-21
+Maintenance,Mechanical,0.9,2019-07-29,2019-08-05
+Maintenance,Mechanical,0.82,2019-07-29,2019-08-07
+Maintenance,Electrical,0.99,2019-07-29,2019-08-07
+Maintenance,Plumbing,1.51,2019-07-29,2019-08-06
+Maintenance,Electrical,0.62,2019-07-30,2019-08-04
+Maintenance,Mechanical,0.86,2019-07-30,2019-08-08
+Maintenance,Mechanical,0.83,2019-07-30,2019-08-06
+Building,Renovation,0.86,2019-07-30,2019-08-21
+Maintenance,Mechanical,0.75,2019-07-30,2019-08-09
+Building,New Construction,0.62,2019-07-31,2019-08-07
+Building,New Construction,1.39,2019-07-31,2019-08-07
+Maintenance,Mechanical,0.88,2019-07-31,2019-08-07
+Maintenance,Electrical,1.63,2019-08-01,2019-08-10
+Maintenance,Plumbing,1.01,2019-08-01,2019-08-07
+Maintenance,Mechanical,0.51,2019-08-01,2019-08-09
+Building,Renovation,1.26,2019-08-01,2019-08-21
+Building,Renovation,0.87,2019-08-01,2019-08-23
+Maintenance,Mechanical,0.62,2019-08-02,2019-08-11
+Maintenance,Plumbing,0.68,2019-08-02,2019-08-07
+Building,Renovation,1.37,2019-08-02,2019-08-24
+Maintenance,Electrical,1.07,2019-08-03,2019-08-12
+Building,New Construction,0.77,2019-08-03,2019-08-09
+Maintenance,Plumbing,0.93,2019-08-03,2019-08-09
+Maintenance,Plumbing,0.72,2019-08-03,2019-08-13
+Maintenance,Mechanical,1.4,2019-08-04,2019-08-16
+Maintenance,Electrical,1.08,2019-08-04,2019-08-13
+Maintenance,Electrical,0.56,2019-08-05,2019-08-09
+Maintenance,Mechanical,0.98,2019-08-05,2019-08-11
+Maintenance,Mechanical,0.98,2019-08-06,2019-08-12
+Maintenance,Electrical,1.17,2019-08-06,2019-08-13
+Building,Renovation,0.8,2019-08-06,2019-08-30
+Building,New Construction,1.17,2019-08-06,2019-08-14
+Building,Renovation,0.92,2019-08-06,2019-08-25
+Maintenance,Mechanical,1.41,2019-08-06,2019-08-19
+Maintenance,Plumbing,1.36,2019-08-06,2019-08-13
+Maintenance,Plumbing,0.75,2019-08-07,2019-08-12
+Building,Renovation,1.5,2019-08-07,2019-08-27
+Maintenance,Plumbing,1.49,2019-08-07,2019-08-14
+Maintenance,Electrical,1.26,2019-08-08,2019-08-16
+Maintenance,Mechanical,0.69,2019-08-09,2019-08-21
+Maintenance,Electrical,0.72,2019-08-09,2019-08-15
+Building,New Construction,0.71,2019-08-10,2019-08-18
+Maintenance,Electrical,1.29,2019-08-10,2019-08-19
+Building,Renovation,1.57,2019-08-10,2019-09-03
+Building,New Construction,2.04,2019-08-10,2019-08-20
+Maintenance,Plumbing,1.47,2019-08-11,2019-08-23
+Maintenance,Mechanical,1.43,2019-08-12,2019-08-22
+Building,New Construction,0.98,2019-08-12,2019-08-18
+Building,New Construction,1.61,2019-08-12,2019-08-23
+Maintenance,Plumbing,1.09,2019-08-12,2019-08-20
+Maintenance,Mechanical,0.87,2019-08-13,2019-08-22
+Maintenance,Electrical,0.93,2019-08-13,2019-08-19
+Maintenance,Mechanical,0.99,2019-08-13,2019-08-21
+Maintenance,Mechanical,1.33,2019-08-14,2019-08-24
+Building,New Construction,1.13,2019-08-14,2019-08-26
+Maintenance,Plumbing,1.69,2019-08-14,2019-08-23
+Building,Renovation,0.91,2019-08-15,2019-09-08
+Building,Renovation,0.62,2019-08-16,2019-09-10
+Maintenance,Plumbing,1.24,2019-08-17,2019-08-27
+Maintenance,Plumbing,1.9,2019-08-18,2019-08-26
+Building,Renovation,1.03,2019-08-18,2019-09-11
+Maintenance,Mechanical,1.0,2019-08-18,2019-08-24
+Maintenance,Plumbing,1.81,2019-08-19,2019-08-24
+Building,Renovation,0.72,2019-08-19,2019-09-09
+Building,Renovation,1.09,2019-08-20,2019-09-14
+Maintenance,Electrical,1.46,2019-08-20,2019-08-28
+Building,New Construction,1.03,2019-08-20,2019-08-28
+Maintenance,Electrical,2.28,2019-08-20,2019-08-28
+Building,New Construction,0.67,2019-08-20,2019-08-29
+Maintenance,Mechanical,0.99,2019-08-20,2019-08-27
+Building,Renovation,0.49,2019-08-21,2019-09-11
+Building,Renovation,1.98,2019-08-21,2019-09-11
+Maintenance,Electrical,1.46,2019-08-21,2019-08-30
+Maintenance,Electrical,1.25,2019-08-21,2019-08-30
+Maintenance,Electrical,0.47,2019-08-22,2019-08-28
+Maintenance,Electrical,0.9,2019-08-22,2019-08-29
+Building,New Construction,1.64,2019-08-22,2019-08-30
+Maintenance,Electrical,0.53,2019-08-22,2019-08-29
+Building,Renovation,0.47,2019-08-23,2019-09-09
+Maintenance,Plumbing,0.58,2019-08-23,2019-08-31
+Maintenance,Plumbing,1.61,2019-08-23,2019-08-30
+Maintenance,Plumbing,2.35,2019-08-23,2019-08-31
+Building,Renovation,1.32,2019-08-23,2019-09-16
+Building,New Construction,0.77,2019-08-24,2019-08-31
+Building,Renovation,1.13,2019-08-24,2019-09-17
+Maintenance,Electrical,0.85,2019-08-24,2019-08-30
+Building,Renovation,1.36,2019-08-25,2019-09-12
+Maintenance,Plumbing,0.68,2019-08-25,2019-09-05
+Building,Renovation,0.57,2019-08-25,2019-09-15
+Maintenance,Mechanical,0.47,2019-08-26,2019-09-02
+Maintenance,Mechanical,0.97,2019-08-26,2019-09-01
+Maintenance,Electrical,0.72,2019-08-26,2019-09-02
+Maintenance,Electrical,0.91,2019-08-26,2019-08-31
+Maintenance,Electrical,0.77,2019-08-27,2019-09-06
+Maintenance,Electrical,0.81,2019-08-27,2019-09-06
+Building,New Construction,1.18,2019-08-28,2019-09-07
+Maintenance,Plumbing,1.25,2019-08-29,2019-09-09
+Maintenance,Plumbing,0.89,2019-08-29,2019-09-07
+Building,New Construction,1.09,2019-08-29,2019-09-07
+Maintenance,Electrical,1.88,2019-08-29,2019-09-09
+Maintenance,Plumbing,1.17,2019-08-30,2019-09-08
+Maintenance,Plumbing,0.49,2019-08-30,2019-09-04
+Maintenance,Electrical,0.99,2019-08-30,2019-09-04
+Building,Renovation,1.06,2019-08-31,2019-09-23
+Maintenance,Mechanical,1.06,2019-08-31,2019-09-08
+Maintenance,Plumbing,0.55,2019-08-31,2019-09-06
+Maintenance,Mechanical,2.38,2019-08-31,2019-09-10
+Maintenance,Electrical,1.12,2019-09-01,2019-09-08
+Building,Renovation,1.86,2019-09-01,2019-09-23
+Building,New Construction,0.54,2019-09-02,2019-09-11
+Building,New Construction,0.96,2019-09-03,2019-09-10
+Maintenance,Plumbing,0.63,2019-09-03,2019-09-09
+Maintenance,Mechanical,0.59,2019-09-04,2019-09-11
+Maintenance,Electrical,1.34,2019-09-04,2019-09-13
+Maintenance,Mechanical,1.42,2019-09-05,2019-09-14
+Maintenance,Mechanical,1.35,2019-09-05,2019-09-14
+Maintenance,Electrical,0.54,2019-09-05,2019-09-11
+Maintenance,Plumbing,1.51,2019-09-05,2019-09-13
+Building,New Construction,1.44,2019-09-05,2019-09-13
+Maintenance,Plumbing,2.13,2019-09-06,2019-09-15
+Maintenance,Mechanical,1.0,2019-09-06,2019-09-15
+Maintenance,Electrical,0.53,2019-09-06,2019-09-13
+Maintenance,Plumbing,1.05,2019-09-06,2019-09-16
+Building,Renovation,1.43,2019-09-07,2019-10-04
+Maintenance,Plumbing,0.63,2019-09-08,2019-09-13
+Building,Renovation,1.06,2019-09-08,2019-10-03
+Maintenance,Plumbing,1.76,2019-09-08,2019-09-15
+Maintenance,Electrical,0.93,2019-09-08,2019-09-13
+Building,Renovation,1.12,2019-09-09,2019-10-01
+Maintenance,Mechanical,0.8,2019-09-09,2019-09-17
+Maintenance,Plumbing,0.85,2019-09-09,2019-09-13
+Building,New Construction,0.67,2019-09-10,2019-09-20
+Building,New Construction,2.15,2019-09-10,2019-09-20
+Maintenance,Electrical,0.33,2019-09-10,2019-09-20
+Maintenance,Electrical,1.27,2019-09-11,2019-09-20
+Building,Renovation,0.75,2019-09-11,2019-10-05
+Building,Renovation,0.43,2019-09-11,2019-09-30
+Maintenance,Plumbing,1.37,2019-09-12,2019-09-18
+Maintenance,Plumbing,1.06,2019-09-12,2019-09-19
+Maintenance,Mechanical,0.79,2019-09-12,2019-09-19
+Building,Renovation,1.47,2019-09-12,2019-10-11
+Maintenance,Plumbing,1.21,2019-09-12,2019-09-20
+Building,Renovation,1.34,2019-09-13,2019-10-10
+Maintenance,Electrical,1.16,2019-09-13,2019-09-25
+Building,Renovation,0.59,2019-09-14,2019-10-07
+Building,New Construction,1.28,2019-09-14,2019-09-21
+Building,Renovation,0.98,2019-09-14,2019-10-09
+Maintenance,Mechanical,0.58,2019-09-14,2019-09-20
+Maintenance,Mechanical,0.88,2019-09-16,2019-09-23
+Maintenance,Electrical,0.82,2019-09-16,2019-09-23
+Maintenance,Plumbing,0.87,2019-09-17,2019-09-22
+Maintenance,Electrical,1.04,2019-09-17,2019-09-25
+Maintenance,Mechanical,2.42,2019-09-18,2019-09-28
+Maintenance,Plumbing,1.96,2019-09-18,2019-09-25
+Maintenance,Mechanical,0.57,2019-09-18,2019-09-27
+Building,New Construction,1.32,2019-09-18,2019-09-26
+Maintenance,Plumbing,1.43,2019-09-18,2019-09-30
+Maintenance,Plumbing,0.93,2019-09-19,2019-09-26
+Building,Renovation,1.02,2019-09-20,2019-10-15
+Building,New Construction,1.15,2019-09-20,2019-09-29
+Maintenance,Electrical,0.88,2019-09-20,2019-09-26
+Building,New Construction,1.19,2019-09-21,2019-09-30
+Maintenance,Mechanical,0.48,2019-09-21,2019-09-28
+Maintenance,Plumbing,1.82,2019-09-21,2019-09-29
+Building,Renovation,0.57,2019-09-21,2019-10-13
+Building,Renovation,2.26,2019-09-22,2019-10-15
+Maintenance,Electrical,1.18,2019-09-22,2019-09-30
+Maintenance,Mechanical,1.91,2019-09-23,2019-10-07
+Building,New Construction,0.62,2019-09-23,2019-10-01
+Maintenance,Mechanical,1.01,2019-09-23,2019-10-01
+Maintenance,Mechanical,1.28,2019-09-23,2019-10-02
+Maintenance,Plumbing,0.81,2019-09-24,2019-10-02
+Maintenance,Mechanical,2.12,2019-09-24,2019-10-08
+Maintenance,Plumbing,0.54,2019-09-24,2019-10-03
+Maintenance,Plumbing,0.94,2019-09-24,2019-10-02
+Maintenance,Mechanical,0.5,2019-09-25,2019-10-05
+Maintenance,Electrical,0.8,2019-09-25,2019-10-05
+Building,Renovation,0.95,2019-09-26,2019-10-20
+Building,New Construction,1.86,2019-09-26,2019-10-04
+Maintenance,Plumbing,1.74,2019-09-26,2019-10-03
+Building,New Construction,1.29,2019-09-27,2019-10-08
+Maintenance,Electrical,1.13,2019-09-27,2019-10-04
+Building,Renovation,0.46,2019-09-27,2019-10-20
+Maintenance,Electrical,0.7,2019-09-27,2019-10-04
+Building,New Construction,1.55,2019-09-27,2019-10-04
+Maintenance,Plumbing,1.33,2019-09-27,2019-10-05
+Building,Renovation,1.04,2019-09-28,2019-10-23
+Maintenance,Electrical,0.84,2019-09-28,2019-10-05
+Maintenance,Mechanical,1.68,2019-09-28,2019-10-12
+Building,New Construction,0.7,2019-09-28,2019-10-03
+Building,New Construction,1.46,2019-09-28,2019-10-06
+Maintenance,Mechanical,1.08,2019-09-29,2019-10-06
+Maintenance,Plumbing,1.49,2019-09-29,2019-10-07
+Maintenance,Mechanical,1.16,2019-09-29,2019-10-07
+Maintenance,Electrical,1.08,2019-09-29,2019-10-10
+Maintenance,Mechanical,0.89,2019-09-30,2019-10-09
+Maintenance,Mechanical,0.77,2019-09-30,2019-10-11
+Building,New Construction,1.14,2019-10-01,2019-10-10
+Building,Renovation,2.17,2019-10-01,2019-10-28
+Maintenance,Mechanical,1.76,2019-10-01,2019-10-12
+Maintenance,Plumbing,0.59,2019-10-01,2019-10-10
+Maintenance,Electrical,0.43,2019-10-02,2019-10-12
+Maintenance,Mechanical,0.96,2019-10-02,2019-10-08
+Maintenance,Mechanical,1.08,2019-10-02,2019-10-09
+Building,New Construction,1.22,2019-10-03,2019-10-12
+Building,Renovation,1.52,2019-10-03,2019-10-23
+Maintenance,Electrical,0.68,2019-10-03,2019-10-10
+Maintenance,Mechanical,1.66,2019-10-03,2019-10-17
+Maintenance,Electrical,0.62,2019-10-04,2019-10-11
+Maintenance,Plumbing,0.77,2019-10-04,2019-10-11
+Building,New Construction,1.2,2019-10-04,2019-10-13
+Maintenance,Plumbing,1.23,2019-10-04,2019-10-14
+Maintenance,Mechanical,0.69,2019-10-05,2019-10-12
+Building,Renovation,2.18,2019-10-05,2019-11-05
+Building,Renovation,1.75,2019-10-05,2019-10-28
+Maintenance,Mechanical,0.68,2019-10-05,2019-10-12
+Maintenance,Mechanical,1.12,2019-10-06,2019-10-19
+Maintenance,Electrical,0.58,2019-10-06,2019-10-11
+Building,New Construction,2.52,2019-10-07,2019-10-16
+Maintenance,Mechanical,0.62,2019-10-07,2019-10-13
+Maintenance,Electrical,0.63,2019-10-08,2019-10-12
+Maintenance,Plumbing,0.71,2019-10-09,2019-10-19
+Building,Renovation,0.64,2019-10-09,2019-10-30
+Building,Renovation,0.47,2019-10-09,2019-10-28
+Building,Renovation,0.65,2019-10-09,2019-11-03
+Maintenance,Electrical,0.75,2019-10-09,2019-10-16
+Maintenance,Mechanical,0.55,2019-10-09,2019-10-17
+Maintenance,Electrical,1.5,2019-10-10,2019-10-17
+Building,New Construction,0.39,2019-10-10,2019-10-17
+Building,Renovation,1.07,2019-10-11,2019-10-31
+Maintenance,Electrical,1.11,2019-10-11,2019-10-18
+Building,New Construction,0.79,2019-10-11,2019-10-17
+Maintenance,Mechanical,1.36,2019-10-11,2019-10-25
+Building,Renovation,1.31,2019-10-12,2019-11-02
+Maintenance,Mechanical,0.55,2019-10-12,2019-10-18
+Building,New Construction,1.0,2019-10-12,2019-10-18
+Building,Renovation,0.71,2019-10-13,2019-11-02
+Maintenance,Plumbing,2.02,2019-10-13,2019-10-24
+Maintenance,Plumbing,0.55,2019-10-13,2019-10-18
+Maintenance,Electrical,0.96,2019-10-13,2019-10-22
+Maintenance,Mechanical,1.64,2019-10-14,2019-10-23
+Building,Renovation,0.35,2019-10-14,2019-11-09
+Building,Renovation,1.31,2019-10-15,2019-11-11
+Building,New Construction,1.04,2019-10-15,2019-10-23
+Building,New Construction,1.71,2019-10-15,2019-10-23
+Maintenance,Electrical,2.63,2019-10-15,2019-10-27
+Maintenance,Plumbing,0.87,2019-10-15,2019-10-24
+Maintenance,Mechanical,1.23,2019-10-16,2019-10-24
+Maintenance,Mechanical,1.68,2019-10-16,2019-10-25
+Maintenance,Mechanical,1.29,2019-10-17,2019-10-29
+Maintenance,Mechanical,1.29,2019-10-17,2019-10-27
+Building,Renovation,1.15,2019-10-18,2019-11-11
+Building,New Construction,1.85,2019-10-18,2019-10-26
+Maintenance,Electrical,0.74,2019-10-18,2019-10-23
+Maintenance,Plumbing,1.74,2019-10-18,2019-10-27
+Building,New Construction,0.63,2019-10-18,2019-10-25
+Building,New Construction,1.21,2019-10-19,2019-10-25
+Maintenance,Electrical,1.79,2019-10-19,2019-10-26
+Maintenance,Mechanical,0.78,2019-10-19,2019-10-26
+Maintenance,Mechanical,0.99,2019-10-19,2019-10-26
+Building,Renovation,1.11,2019-10-20,2019-11-13
+Maintenance,Electrical,1.9,2019-10-21,2019-11-01
+Maintenance,Electrical,1.11,2019-10-21,2019-10-30
+Building,New Construction,0.6,2019-10-21,2019-10-28
+Building,Renovation,3.78,2019-10-21,2019-11-18
+Building,Renovation,0.78,2019-10-22,2019-11-14
+Building,New Construction,0.92,2019-10-22,2019-10-28
+Building,Renovation,0.99,2019-10-22,2019-11-07
+Building,Renovation,1.24,2019-10-23,2019-11-16
+Maintenance,Mechanical,2.1,2019-10-23,2019-11-01
+Building,New Construction,0.88,2019-10-23,2019-10-31
+Maintenance,Plumbing,0.75,2019-10-24,2019-10-28
+Maintenance,Mechanical,1.16,2019-10-24,2019-11-02
+Maintenance,Electrical,0.96,2019-10-24,2019-10-31
+Maintenance,Mechanical,1.47,2019-10-24,2019-11-04
+Building,New Construction,0.62,2019-10-24,2019-11-02
+Building,Renovation,0.99,2019-10-25,2019-11-09
+Maintenance,Electrical,1.82,2019-10-25,2019-11-02
+Building,New Construction,1.81,2019-10-25,2019-11-02
+Maintenance,Plumbing,1.55,2019-10-25,2019-11-05
+Building,Renovation,0.67,2019-10-26,2019-11-16
+Building,New Construction,1.34,2019-10-26,2019-11-04
+Building,Renovation,0.38,2019-10-28,2019-11-18
+Maintenance,Plumbing,1.03,2019-10-28,2019-11-07
+Building,Renovation,1.38,2019-10-29,2019-11-23
+Maintenance,Electrical,1.98,2019-10-29,2019-11-04
+Maintenance,Plumbing,1.02,2019-10-29,2019-11-08
+Maintenance,Plumbing,1.07,2019-10-30,2019-11-10
+Building,New Construction,1.58,2019-10-30,2019-11-07
+Building,Renovation,1.54,2019-10-30,2019-11-26
+Building,Renovation,1.01,2019-10-30,2019-11-25
+Maintenance,Mechanical,1.17,2019-10-30,2019-11-08
+Maintenance,Plumbing,1.35,2019-10-30,2019-11-05
+Maintenance,Electrical,1.58,2019-10-31,2019-11-12
+Maintenance,Electrical,1.04,2019-10-31,2019-11-09
+Maintenance,Electrical,0.81,2019-10-31,2019-11-07
+Building,New Construction,1.73,2019-10-31,2019-11-09
+Maintenance,Mechanical,1.33,2019-10-31,2019-11-07
+Building,New Construction,1.17,2019-10-31,2019-11-10
+Maintenance,Mechanical,1.26,2019-10-31,2019-11-12
+Maintenance,Electrical,0.81,2019-10-31,2019-11-08
+Maintenance,Electrical,3.06,2019-10-31,2019-11-13
+Maintenance,Electrical,0.99,2019-11-01,2019-11-07
+Maintenance,Electrical,0.42,2019-11-01,2019-11-06
+Maintenance,Plumbing,0.74,2019-11-02,2019-11-10
+Building,New Construction,1.75,2019-11-03,2019-11-11
+Building,Renovation,1.37,2019-11-03,2019-11-23
+Building,New Construction,0.6,2019-11-03,2019-11-12
+Building,Renovation,0.95,2019-11-04,2019-11-29
+Maintenance,Plumbing,1.51,2019-11-04,2019-11-11
+Maintenance,Plumbing,0.46,2019-11-05,2019-11-10
+Building,Renovation,1.17,2019-11-05,2019-11-28
+Maintenance,Mechanical,1.03,2019-11-06,2019-11-17
+Building,Renovation,0.99,2019-11-06,2019-11-29
+Maintenance,Mechanical,1.77,2019-11-06,2019-11-15
+Maintenance,Plumbing,0.97,2019-11-06,2019-11-17
+Building,New Construction,1.06,2019-11-06,2019-11-17
+Building,New Construction,0.55,2019-11-07,2019-11-11
+Building,New Construction,1.15,2019-11-08,2019-11-17
+Building,Renovation,1.43,2019-11-08,2019-12-05
+Maintenance,Mechanical,0.86,2019-11-08,2019-11-20
+Maintenance,Plumbing,1.49,2019-11-08,2019-11-16
+Building,Renovation,2.39,2019-11-08,2019-12-03
+Building,Renovation,1.48,2019-11-09,2019-12-07
+Maintenance,Mechanical,1.63,2019-11-09,2019-11-17
+Maintenance,Plumbing,0.7,2019-11-09,2019-11-14
+Building,Renovation,0.52,2019-11-09,2019-12-01
+Building,New Construction,0.67,2019-11-11,2019-11-18
+Maintenance,Plumbing,0.89,2019-11-11,2019-11-16
+Building,Renovation,0.55,2019-11-12,2019-12-03
+Maintenance,Mechanical,2.62,2019-11-12,2019-11-26
+Maintenance,Mechanical,1.37,2019-11-13,2019-11-22
+Maintenance,Electrical,1.02,2019-11-13,2019-11-22
+Building,Renovation,1.17,2019-11-14,2019-12-06
+Maintenance,Plumbing,0.8,2019-11-14,2019-11-18
+Building,New Construction,0.49,2019-11-14,2019-11-23
+Maintenance,Plumbing,2.16,2019-11-15,2019-11-24
+Building,New Construction,0.46,2019-11-15,2019-11-20
+Maintenance,Electrical,1.38,2019-11-15,2019-11-27
+Building,Renovation,1.74,2019-11-15,2019-12-13
+Maintenance,Electrical,0.98,2019-11-15,2019-11-23
+Maintenance,Mechanical,1.37,2019-11-15,2019-11-26
+Building,New Construction,0.86,2019-11-15,2019-11-24
+Building,New Construction,0.74,2019-11-16,2019-11-26
+Maintenance,Mechanical,1.49,2019-11-16,2019-11-27
+Maintenance,Electrical,0.38,2019-11-17,2019-11-23
+Maintenance,Plumbing,0.98,2019-11-17,2019-11-25
+Maintenance,Plumbing,2.05,2019-11-17,2019-11-27
+Building,Renovation,1.25,2019-11-17,2019-12-10
+Maintenance,Electrical,0.66,2019-11-17,2019-11-23
+Maintenance,Plumbing,0.98,2019-11-18,2019-11-24
+Building,New Construction,0.87,2019-11-18,2019-11-28
+Building,New Construction,0.95,2019-11-19,2019-11-29
+Maintenance,Plumbing,1.45,2019-11-19,2019-11-27
+Building,New Construction,1.22,2019-11-19,2019-11-27
+Maintenance,Mechanical,1.16,2019-11-19,2019-11-28
+Maintenance,Plumbing,1.4,2019-11-20,2019-12-01
+Maintenance,Mechanical,1.29,2019-11-20,2019-12-01
+Maintenance,Mechanical,1.92,2019-11-20,2019-11-29
+Maintenance,Electrical,0.69,2019-11-20,2019-11-25
+Building,New Construction,1.69,2019-11-20,2019-12-02
+Building,New Construction,1.15,2019-11-20,2019-11-29
+Building,Renovation,1.02,2019-11-21,2019-12-15
+Maintenance,Mechanical,1.53,2019-11-21,2019-11-30
+Maintenance,Plumbing,1.11,2019-11-21,2019-11-29
+Maintenance,Plumbing,1.15,2019-11-22,2019-11-28
+Maintenance,Electrical,0.88,2019-11-23,2019-11-29
+Building,Renovation,0.94,2019-11-23,2019-12-12
+Building,Renovation,1.42,2019-11-23,2019-12-16
+Maintenance,Electrical,1.83,2019-11-24,2019-12-06
+Maintenance,Electrical,0.64,2019-11-24,2019-12-01
+Building,Renovation,0.78,2019-11-24,2019-12-12
+Maintenance,Mechanical,0.67,2019-11-25,2019-12-01
+Building,Renovation,1.06,2019-11-25,2019-12-20
+Building,New Construction,2.02,2019-11-25,2019-12-07
+Maintenance,Mechanical,1.36,2019-11-25,2019-12-05
+Maintenance,Mechanical,1.43,2019-11-26,2019-12-03
+Maintenance,Electrical,2.42,2019-11-26,2019-12-06
+Maintenance,Mechanical,0.77,2019-11-26,2019-12-01
+Maintenance,Plumbing,0.99,2019-11-26,2019-12-07
+Building,New Construction,0.71,2019-11-27,2019-12-03
+Maintenance,Plumbing,1.85,2019-11-27,2019-12-05
+Building,New Construction,0.99,2019-11-27,2019-12-04
+Building,New Construction,0.98,2019-11-27,2019-12-03
+Maintenance,Mechanical,0.61,2019-11-27,2019-12-06
+Maintenance,Mechanical,1.32,2019-11-27,2019-12-06
+Maintenance,Mechanical,0.98,2019-11-28,2019-12-07
+Building,Renovation,0.77,2019-11-28,2019-12-18
+Maintenance,Mechanical,0.91,2019-11-29,2019-12-05
+Building,Renovation,1.54,2019-11-29,2019-12-24
+Maintenance,Electrical,1.38,2019-11-29,2019-12-07
+Maintenance,Electrical,1.26,2019-11-29,2019-12-08
+Maintenance,Mechanical,1.95,2019-11-30,2019-12-10
+Building,New Construction,1.46,2019-11-30,2019-12-09
+Maintenance,Plumbing,1.6,2019-11-30,2019-12-09
+Maintenance,Plumbing,1.82,2019-11-30,2019-12-11
+Maintenance,Mechanical,1.4,2019-12-01,2019-12-08
+Maintenance,Mechanical,1.09,2019-12-01,2019-12-10
+Maintenance,Electrical,0.68,2019-12-01,2019-12-08
+Maintenance,Plumbing,2.02,2019-12-02,2019-12-12
+Maintenance,Plumbing,0.91,2019-12-02,2019-12-10
+Maintenance,Plumbing,1.25,2019-12-03,2019-12-14
+Maintenance,Electrical,0.59,2019-12-03,2019-12-09
+Building,Renovation,0.94,2019-12-04,2019-12-24
+Maintenance,Mechanical,1.08,2019-12-04,2019-12-18
+Building,Renovation,1.01,2019-12-04,2019-12-24
+Maintenance,Electrical,1.74,2019-12-05,2019-12-13
+Maintenance,Plumbing,0.87,2019-12-05,2019-12-11
+Maintenance,Electrical,0.86,2019-12-05,2019-12-14
+Building,New Construction,0.91,2019-12-05,2019-12-12
+Maintenance,Electrical,1.19,2019-12-05,2019-12-17
+Maintenance,Mechanical,1.35,2019-12-05,2019-12-14
+Building,New Construction,1.11,2019-12-06,2019-12-16
+Maintenance,Electrical,1.13,2019-12-07,2019-12-15
+Building,New Construction,0.89,2019-12-07,2019-12-17
+Building,New Construction,0.91,2019-12-07,2019-12-13
+Maintenance,Plumbing,2.14,2019-12-07,2019-12-19
+Building,New Construction,0.83,2019-12-08,2019-12-14
+Maintenance,Mechanical,2.21,2019-12-08,2019-12-18
+Maintenance,Mechanical,0.77,2019-12-09,2019-12-16
+Building,New Construction,1.48,2019-12-09,2019-12-17
+Maintenance,Plumbing,1.19,2019-12-09,2019-12-17
+Maintenance,Mechanical,1.48,2019-12-09,2019-12-19
+Building,New Construction,1.29,2019-12-09,2019-12-21
+Building,Renovation,1.11,2019-12-09,2020-01-05
+Maintenance,Electrical,1.23,2019-12-09,2019-12-18
+Maintenance,Plumbing,1.54,2019-12-09,2019-12-17
+Maintenance,Plumbing,1.56,2019-12-10,2019-12-19
+Building,Renovation,1.2,2019-12-10,2020-01-05
+Building,New Construction,1.03,2019-12-10,2019-12-18
+Building,New Construction,0.84,2019-12-10,2019-12-19
+Building,Renovation,0.51,2019-12-11,2019-12-29
+Maintenance,Mechanical,0.88,2019-12-11,2019-12-21
+Maintenance,Plumbing,0.55,2019-12-12,2019-12-18
+Building,New Construction,1.41,2019-12-12,2019-12-24
+Maintenance,Plumbing,0.77,2019-12-13,2019-12-18
+Building,Renovation,1.14,2019-12-13,2020-01-03
+Building,New Construction,0.56,2019-12-13,2019-12-18
+Building,New Construction,0.97,2019-12-13,2019-12-21
+Maintenance,Plumbing,2.37,2019-12-14,2019-12-23
+Building,Renovation,0.68,2019-12-15,2020-01-08
+Building,Renovation,0.92,2019-12-15,2020-01-07
+Maintenance,Plumbing,0.61,2019-12-15,2019-12-21
+Maintenance,Mechanical,0.47,2019-12-15,2019-12-23
+Maintenance,Mechanical,0.9,2019-12-16,2019-12-24
+Maintenance,Mechanical,1.99,2019-12-16,2019-12-24
+Maintenance,Mechanical,1.29,2019-12-16,2019-12-23
+Maintenance,Electrical,1.84,2019-12-16,2019-12-25
+Maintenance,Electrical,1.29,2019-12-17,2019-12-26
+Building,New Construction,0.93,2019-12-18,2019-12-22
+Maintenance,Mechanical,1.15,2019-12-18,2019-12-30
+Building,New Construction,0.87,2019-12-18,2019-12-24
+Building,Renovation,0.44,2019-12-18,2020-01-07
+Maintenance,Mechanical,1.63,2019-12-18,2019-12-27
+Building,Renovation,1.05,2019-12-19,2020-01-09
+Maintenance,Mechanical,2.16,2019-12-19,2019-12-30
+Building,New Construction,1.04,2019-12-19,2019-12-28
+Building,Renovation,0.79,2019-12-20,2020-01-12
+Building,Renovation,0.9,2019-12-21,2020-01-11
+Maintenance,Plumbing,0.64,2019-12-21,2019-12-29
+Maintenance,Plumbing,0.96,2019-12-21,2019-12-30
+Building,New Construction,0.54,2019-12-21,2019-12-25
+Building,New Construction,1.11,2019-12-22,2019-12-31
+Maintenance,Electrical,1.03,2019-12-23,2019-12-31
+Maintenance,Electrical,0.88,2019-12-23,2020-01-02
+Building,New Construction,0.93,2019-12-23,2019-12-31
+Building,Renovation,1.11,2019-12-23,2020-01-16
+Maintenance,Plumbing,1.23,2019-12-23,2020-01-03
+Building,New Construction,0.66,2019-12-24,2019-12-30
+Maintenance,Plumbing,0.86,2019-12-24,2019-12-29
+Maintenance,Plumbing,0.98,2019-12-24,2020-01-01
+Maintenance,Electrical,1.27,2019-12-25,2020-01-04
+Maintenance,Mechanical,0.61,2019-12-25,2020-01-02
+Building,New Construction,1.15,2019-12-26,2020-01-06
+Maintenance,Electrical,1.32,2019-12-26,2020-01-04
+Building,Renovation,0.78,2019-12-26,2020-01-18
+Building,New Construction,0.46,2019-12-27,2020-01-03
+Maintenance,Plumbing,0.87,2019-12-27,2020-01-04
+Maintenance,Mechanical,1.11,2019-12-27,2020-01-09
+Building,New Construction,0.71,2019-12-28,2020-01-07
+Building,Renovation,1.16,2019-12-28,2020-01-18
+Maintenance,Plumbing,0.91,2019-12-28,2020-01-03
+Maintenance,Electrical,1.55,2019-12-28,2020-01-06
+Building,New Construction,0.96,2019-12-29,2020-01-08
+Building,New Construction,0.96,2019-12-30,2020-01-10
+Maintenance,Mechanical,1.11,2019-12-30,2020-01-09
+Maintenance,Mechanical,1.17,2019-12-30,2020-01-09
+Building,Renovation,0.63,2019-12-30,2020-01-26
+Building,New Construction,1.36,2019-12-31,2020-01-08
+Building,New Construction,0.65,2019-12-31,2020-01-07
+Building,Renovation,1.03,2019-12-31,2020-01-25
+Maintenance,Plumbing,2.1,2019-12-31,2020-01-08
+Maintenance,Mechanical,1.18,2019-12-31,2020-01-13
