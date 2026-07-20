@@ -1,0 +1,23 @@
+PYTHON := python
+INPUT_DIR := input_data
+ARTIFACT_DIR := artifacts
+INPUT_FILES := $(wildcard $(INPUT_DIR)/*.json)
+
+.PHONY: all clean
+
+all: $(ARTIFACT_DIR)/model.pkl
+
+$(ARTIFACT_DIR):
+	mkdir -p $(ARTIFACT_DIR)
+
+$(ARTIFACT_DIR)/combined.csv: permits_combine.py $(INPUT_FILES) | $(ARTIFACT_DIR)
+	$(PYTHON) permits_combine.py $(INPUT_DIR) $@
+
+$(ARTIFACT_DIR)/clean.csv: permits_clean.py $(ARTIFACT_DIR)/combined.csv | $(ARTIFACT_DIR)
+	$(PYTHON) permits_clean.py $(ARTIFACT_DIR)/combined.csv $@
+
+$(ARTIFACT_DIR)/model.pkl: permits_train.py $(ARTIFACT_DIR)/clean.csv | $(ARTIFACT_DIR)
+	$(PYTHON) permits_train.py $(ARTIFACT_DIR)/clean.csv $@
+
+clean:
+	rm -rf $(ARTIFACT_DIR)
